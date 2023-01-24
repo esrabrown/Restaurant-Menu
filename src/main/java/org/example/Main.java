@@ -14,9 +14,9 @@ public class Main {
 
         ArrayList<MenuItem> items = new ArrayList<>();
         Date today = Calendar.getInstance().getTime();
-      // private Date lastUpdated;
 
-       // items.add();
+
+
 
         //Menu menu = new Menu(items, lastUpdated);
         MenuItem item1 = new MenuItem(9.12, " Cheesecake " , " Dessert" , false);
